@@ -60,7 +60,7 @@ If you utilize the dataset or the model training code in your research, please c
   title={Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean},
   author={Dojun Park and Sebastian Pad'o},
   year={2024},
-  booktitle={Proceedings of the LREC-COLING 2024},
+  booktitle={Proceedings of LREC-COLING 2024},
   url={https://api.semanticscholar.org/CorpusID:268532121}
 }
 ```
