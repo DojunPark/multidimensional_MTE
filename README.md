@@ -29,7 +29,7 @@ Each data point is formatted with the following columns:
 - **Validation Set**: 1001 to 1100
 - **Test Set**: 1101 to 1200
 
-This dataset is instrumental for research in machine translation quality estimation, especially for those looking into the nuanced evaluation of translations beyond single-score metrics.
+This dataset is instrumental for research in machine translation quality evaluation, especially for those looking into the nuanced evaluation of translations beyond single-score metrics.
 
 ## Model Training Code
 
@@ -56,11 +56,22 @@ Researchers can use the provided Jupyter notebook to understand the model traini
 If you utilize the dataset or the model training code in your research, please cite our paper from LREC-COLING 2024:
 
 ```bibtex
-@inproceedings{Park2024MultiDimensionalMT,
-  title={Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean},
-  author={Dojun Park and Sebastian Pad'o},
-  year={2024},
-  booktitle={Proceedings of LREC-COLING 2024},
-  url={https://api.semanticscholar.org/CorpusID:268532121}
+@inproceedings{park-pado-2024-multi-dimensional,
+    title = "Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for {K}orean",
+    author = "Park, Dojun  and
+      Pad{\'o}, Sebastian",
+    editor = "Calzolari, Nicoletta  and
+      Kan, Min-Yen  and
+      Hoste, Veronique  and
+      Lenci, Alessandro  and
+      Sakti, Sakriani  and
+      Xue, Nianwen",
+    booktitle = "Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)",
+    month = may,
+    year = "2024",
+    address = "Torino, Italia",
+    publisher = "ELRA and ICCL",
+    url = "https://aclanthology.org/2024.lrec-main.1024",
+    pages = "11723--11744"
 }
 ```
