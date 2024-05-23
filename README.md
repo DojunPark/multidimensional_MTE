@@ -1,6 +1,6 @@
 # Multi-Dimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean
 
-This repository contains resources developed for our research, [Multidimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean](https://aclanthology.org/2024.lrec-main.1024/), which is presented at [LREC-COLING 2024](https://lrec-coling-2024.org/). It includes the `En_Ko_MQM_Quality_Scores.tsv` dataset and the `MTE_QE_model_training_code(RemBERT).ipynb` Jupyter notebook for model training.
+This repository contains resources developed for our research, [Multidimensional Machine Translation Evaluation: Model Evaluation and Resource for Korean](https://aclanthology.org/2024.lrec-main.1024/), which is presented at LREC-COLING 2024. It includes the `En_Ko_MQM_Quality_Scores.tsv` dataset and the `MTE_QE_model_training_code(RemBERT).ipynb` Jupyter notebook for model training.
 
 ## Dataset Description
 
